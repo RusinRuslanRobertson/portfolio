@@ -21,7 +21,7 @@ class About extends Component {
                                     <div className="about-info">
                                         <p><span className="title-s">Name: </span> <span>Ruslan Rusin</span></p>
                                         <p><span className="title-s">Profile: </span> <span>Full Stack Developer</span></p>
-                                        <p><span className="title-s">Email: </span> <span>contact.me@example.com</span></p>
+                                        <p><span className="title-s">Email: </span> <span>rusin.robertson@gmail.com</span></p>
                                         <p><span className="title-s">Phone: </span> <span>(204) 123-4567</span></p>
                                     </div>
                                     </div>
