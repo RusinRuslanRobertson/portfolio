@@ -35,10 +35,16 @@ class About extends Component {
                                     </h5>
                                     </div>
                                     <p className="lead">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                                        My name is Ruslan Rusin and I am a self-employed musician and actor.
                                     </p>
                                     <p className="lead">
-                                    But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure
+                                        I started my musical journey in my home country of Ukraine. Upon graduating from the Odessa national conservatory, I joined the National Odessa Symphony Orchestra and was a member for 6 years.
+                                    </p>
+                                    <p className="lead">
+                                        While I enjoyed working for NOSO I wanted to travel the world and it was at that time that I discovered cruise ships. It was an exciting moment of my life when I combined my passion for music and exploring the world. It was there that I met my future wife Rochelle and made the big move to Winnipeg. I have been living in Winnipeg for the past 7 years. I have been able to sustain my career as a musician in the city, however, I wanted to further my education in another area. That is when I decided to enroll in Robertson college. I have enjoyed my education immensely and look forward to exploring my career in IT.
+                                    </p>
+                                    <p className="lead">
+                                        I would like to thank all my instructors who shared their knowledge and experience with me and helped me acquire the skills I will use to become an IT professional.
                                     </p>
                                 </div>
                                 </div>
